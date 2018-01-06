@@ -6,9 +6,9 @@
 [equation2]: https://github.com/lampertb/LEDKnuckleBuster/blob/master/Images/equation2.png "Base current equation"
 [equation3]: https://github.com/lampertb/LEDKnuckleBuster/blob/master/Images/equation3.png "Base current equation"
 
-[handFist]: https://github.com/lampertb/LEDKnuckleBuster/blob/master/Images/handFist.png "LED Knuckle Buster In Action"
+[handFist]: https://github.com/lampertb/LEDKnuckleBuster/blob/master/Images/handFist.jpg "LED Knuckle Buster In Action"
 [layout]: https://github.com/lampertb/LEDKnuckleBuster/blob/master/Images/layout.png "Board layout with fill"
-[productPhoto]: https://github.com/lampertb/LEDKnuckleBuster/blob/master/Images/productPhoto.png "LED Knuckle Buster In Action"
+[productPhoto]: https://github.com/lampertb/LEDKnuckleBuster/blob/master/Images/productPhoto.jpg "LED Knuckle Buster In Action"
 [schematic]: https://github.com/lampertb/LEDKnuckleBuster/blob/master/Images/schematic.png "LED Knuckle Buster Schematic"
 
 ![alt text][gif]
@@ -18,16 +18,16 @@
 
 Designed and manufactured by Ben Lampert at Chicago's mHub maker space (https://mhubchicago.com/) these LED's brass knuckles are a fun toy to play with. Conductive finger holes turn on high gain transistors that lights up LED's based on the strength of the grip; just put your fingers through the hole and squeeze!
 
-## Features:
+### Features:
 ..* Brass knuckle finger spacing fits most adults and children.
 ..* 100% Analog circuitry features low power operation when not in use.
 ..* Touch sensitive design, just make a fist to turn on the LED's!
 
-## Requires:
+### Requires:
 ..* Blue LED Brass Knuckle board (.brd files available)
 ..* Parts http://www.digikey.com/short/q8q7pt
 
-## Specs
+### Specs
 ..* Height: Approx 115mm
 ..* Width: Approx 50mm
 ..* Powered by two coin cell batteries
@@ -52,7 +52,9 @@ What I came up with I think it simple and clever. The copper on the backside of 
 Just as a ballpark, that current using a Darlington Pair is approximately:
 
 ![alt text][equation1]
+
 ![alt text][equation2]
+
 ![alt text][equation3]
 
 
