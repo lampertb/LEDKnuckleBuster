@@ -33,7 +33,7 @@ Designed and manufactured by Ben Lampert at Chicago's mHub maker space (https://
   * Powered by two coin cell batteries
 
 
-#Build Log for the Brass Knuckles:
+## Project Details:
 
 The LED Knuckle Buster mechanical and board outline was originally inspired by this thingiverse brass knuckle.
 https://www.thingiverse.com/thing:1160010
@@ -41,9 +41,6 @@ https://www.thingiverse.com/thing:1160010
 I decided to make an LED version, and after downloading used solidworks to create and exporting a DXF of the outer perimeter of the model. This DXF was then important as layer 20 (board outline) in eagle to create the PCB board outline.
 
 ![alt text][dxfExample]
-
-
-## Circuit:
 
 The circuit I think it pretty clever. I originally thought to use a microcontroller and a technique similar to the mAkey mAkey (https://makeymakey.com/). However, it seems like I put MCU’s on everything these days, so I revisited a 100% analog design.
 
