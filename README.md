@@ -18,19 +18,19 @@
 
 Designed and manufactured by Ben Lampert at Chicago's mHub maker space (https://mhubchicago.com/) these LED's brass knuckles are a fun toy to play with. Conductive finger holes turn on high gain transistors that lights up LED's based on the strength of the grip; just put your fingers through the hole and squeeze!
 
-### Features:
-..* Brass knuckle finger spacing fits most adults and children.
-..* 100% Analog circuitry features low power operation when not in use.
-..* Touch sensitive design, just make a fist to turn on the LED's!
+* Features:
+  * Brass knuckle finger spacing fits most adults and children.
+  * 100% Analog circuitry features low power operation when not in use.
+  * Touch sensitive design, just make a fist to turn on the LED's!
 
-### Requires:
-..* Blue LED Brass Knuckle board (.brd files available)
-..* Parts http://www.digikey.com/short/q8q7pt
+* Requires:
+  * Blue LED Brass Knuckle board (.brd files available)
+  * Parts http://www.digikey.com/short/q8q7pt
 
-### Specs
-..* Height: Approx 115mm
-..* Width: Approx 50mm
-..* Powered by two coin cell batteries
+* Specs
+  * Height: Approx 115mm
+  * Width: Approx 50mm
+  * Powered by two coin cell batteries
 
 
 #Build Log for the Brass Knuckles:
