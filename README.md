@@ -4,7 +4,7 @@
 
 ![alt text][gif]
 
-[gif]: https://github.com/lampertb/LEDKnuckleBuster/Images/touchExample.gif "LED Knuckle Buster In Action"
+[gif]: https://github.com/lampertb/LEDKnuckleBuster/blob/master/Images/touchExample.gif "LED Knuckle Buster In Action"
 
 
 LED Knuckle Busters, light up your fists!
